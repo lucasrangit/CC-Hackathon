@@ -22,7 +22,7 @@ The mocks can be copied and adjusted. In case you want to change something, spea
 
 We can export them directly to the developer portal.
 
-Exemplary data from real sources are also available in the folder [mocks](https://github.com/mydaco/CC-Hackathon/mocks).
+Exemplary data from real sources are also available in the folder [mocks](https://github.com/mydaco/CC-Hackathon/tree/master/mocks).
 
 ## Device data from dashboards
 
