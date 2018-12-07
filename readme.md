@@ -5,6 +5,8 @@
 The documentation is available directly in the developer portal: 
 https://developer-staging.conradconnect.de/app/documentation
 
+Source code for the tutorials is linked for each of them and they all are uploaded to the repository: https://github.com/mydaco/documentation/
+
 The jsdoc for the definition of the interfaces is available in the documentation and here: https://mydaco.github.io/mydaco-docs/
 
 ## Devices for events and actuation
