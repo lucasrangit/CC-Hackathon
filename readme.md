@@ -16,11 +16,13 @@ In the tutorial repo is a short explanation about the devices being utilized: ht
 
 ## Mocked Data
 
-This gdrive folder contains some mocked data for various ideas.
+[This gdrive folder](https://drive.google.com/drive/folders/1WtMuegGTIehZ2rUXG0ONByHEFRUTJ6OG?usp=sharing) contains some mocked data for various ideas.
 The mocks can be copied and adjusted. In case you want to change something, speak to us (Benjamin and Fabian)
-https://drive.google.com/drive/folders/1WtMuegGTIehZ2rUXG0ONByHEFRUTJ6OG?usp=sharing
+
 
 We can export them directly to the developer portal.
+
+Exemplary data from real sources are also available in the folder [mocks](https://github.com/mydaco/CC-Hackathon/mocks).
 
 ## Device data from dashboards
 
